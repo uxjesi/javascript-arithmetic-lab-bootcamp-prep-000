@@ -18,11 +18,11 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  return n++
+  return 
 }
 
 function dec(n) {
   n = 2
-  return n--
+  return n
 }
 
