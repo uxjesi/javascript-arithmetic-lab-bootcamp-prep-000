@@ -23,7 +23,7 @@ function inc(n) {
 }
 
 function dec(n) {
-  n = 2
-  return n--
+  n--
+  return n
 }
 
