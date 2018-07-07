@@ -1,6 +1,5 @@
 var a = 5
 var b = 10
-var n = 2
 
 function add(a, b) {
   return a += b
